@@ -15,3 +15,9 @@ Mis pasatiemos son:
   
 Correo de contacto:
 raulaguaschavez@gmail.com
+
+<a href="./Ojetivos/README.md">OBJETIVOS</a>
+
+Me gustaria poder crear aplicaciones e interfaces de usuario que interactuen con plc's en la industria. 
+
+Asi como poder conseguir un trabajo de programador 
